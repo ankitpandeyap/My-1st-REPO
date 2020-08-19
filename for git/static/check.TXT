@@ -1,0 +1,8 @@
+for ignoring outer dir folder 
+we use 
+/dir/
+
+not working for me
+
+// for checking only please ignore part from here
+// hello world
